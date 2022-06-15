@@ -43,18 +43,18 @@
 
 #### Galeria
 
-1. Lista de imagens (li img) e a imagem principal.
-   1.1 Como selecionar uma lista de itens?
-   1.2 Como selecionar um item?
+1. Lista de imagens (li img) e a imagem principal.</br>
+   1.1 Como selecionar uma lista de itens?</br>
+   1.2 Como selecionar um item?</br>
 
-2. Clique em um dos itens da lista.
-   2.1 Como adicionar um event de click a uma lista de itens?
+2. Clique em um dos itens da lista.</br>
+   2.1 Como adicionar um event de click a uma lista de itens?</br>
 
-3. Precisamos da URL do item clicado.
-   3.1 Como obter a URL de um elemento?
+3. Precisamos da URL do item clicado.</br>
+   3.1 Como obter a URL de um elemento?</br>
 
-4. Precisamos alterar a URL da imagem principal.
-   4.1 Como alterar a URL de um elemento?
+4. Precisamos alterar a URL da imagem principal.</br>
+   4.1 Como alterar a URL de um elemento?</br>
 
 ## :sparkles: Features
 
