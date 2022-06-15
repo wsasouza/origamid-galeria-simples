@@ -9,13 +9,13 @@
 <h1 align="center">Solucionar Problemas</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wsasouza/solucionar-problemas?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wsasouza/origamid-galeria-simples?color=7159c1">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wsasouza/solucionar-problemas?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wsasouza/origamid-galeria-simples?color=7159c1">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wsasouza/solucionar-problemas?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wsasouza/origamid-galeria-simples?color=7159c1">
 
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/wsasouza/solucionar-problemas?color=56BEB8">  
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/wsasouza/origamid-galeria-simples?color=7159c1">  
 </p>
 
 <p align="center">
